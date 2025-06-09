@@ -1,11 +1,11 @@
-# Tianna Parris - Data Analyst Portfolio
+# Nguyễn Hữu Minh - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Xin chào, tôi là Nguyễn Hữu Minh!
+Tôi tốt nghiệp ngành Toán học tại Trường Đại học Khoa học Tự nhiên Hà Nội và hiện đang tiếp tục phát triển sự nghiệp trong lĩnh vực Dữ liệu vói vai trò Chuyên viên  Phân tích Dữ liệu. Với nền tảng vững chắc về Thống kê, tôi có kinh nghiệm sử dụng các công cụ như SQL, Python ,Power BI và Excel để xử lý, phân tích và trực quan hóa dữ liệu, hỗ trợ ra quyết định và tối ưu hóa quy trình làm việc.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Trong quá trình học tập và tham gia các dự án thực tế, tôi đã rèn luyện kỹ năng làm việc với dữ liệu phức tạp và phát hiện các mẫu và xu hướng quan trọng. Tôi cũng đã hoàn thành các chứng chỉ như SQL HackerRank (Advanced) và Google Data Analytics Professional Certificate, khẳng định kiến thức nền tảng cũng như khả năng ứng dụng thực tế trong công việc.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
-
+Ngoài giờ học, tôi chủ động tìm hiểu thêm về các công nghệ mới và nâng cao kỹ năng phân tích dữ liệu. Tôi luôn sẵn sàng học hỏi, thích nghi và phát triển trong môi trường làm việc chuyên nghiệp. Tôi tin rằng với tinh thần cầu tiến và nền tảng chuyên môn của mình, tôi sẽ mang đến những giá trị thiết thực trong vai trò Data Analyst
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
