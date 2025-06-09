@@ -1,11 +1,10 @@
-# Nguyễn Hữu Minh - Data Analyst Portfolio
-## Giới thiệu bản thân
-Xin chào, tôi là Tianna! Tôi có nền tảng phân tích về Hóa sinh và hiện tại, tôi đang trên đường hoàn thành bằng cấp về Khoa học dữ liệu (Thạc sĩ Khoa học dữ liệu). Tôi đã phát triển nền tảng vững chắc về khoa học sự sống và đam mê sử dụng dữ liệu để khám phá những hiểu biết có ý nghĩa. Tôi rất vui khi được mang các kỹ năng kỹ thuật và phân tích của mình vào lĩnh vực khoa học dữ liệu với tư cách là một chuyên gia dữ liệu mới vào nghề. 
+# Tianna Parris - Data Analyst Portfolio
+## About
+Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
-Trong quá trình học, tôi đã mài giũa khả năng làm việc với dữ liệu phức tạp và phát triển con mắt tinh tường để xác định các mô hình và xu hướng. Tôi cũng đã tích lũy được kinh nghiệm về các kỹ thuật phòng thí nghiệm, quản lý dữ liệu và phân tích thống kê, những điều mà tôi tin rằng sẽ là tài sản có giá trị trong vai trò là một chuyên gia dữ liệu của mình. 
+During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
-Trong thời gian rảnh rỗi, tôi thích khám phá các công cụ và kỹ thuật phân tích dữ liệu mới và tôi luôn tìm kiếm cơ hội để mở rộng kiến ​​thức và kỹ năng của mình. Cho dù làm việc theo nhóm hay độc lập, tôi đều bị thúc đẩy bởi sự phấn khích khi khám phá ra những hiểu biết mới và sự hài lòng khi sử dụng dữ liệu để giải quyết các vấn đề phức tạp.
-
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
